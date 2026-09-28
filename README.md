@@ -17,7 +17,7 @@ A Spotify-inspired music streaming website created using HTML and CSS. This proj
 
 🔗 Project Link
 
-"🌐 View Live Project" (https://sdey31.github.io/SpotifyClone/)
+"🌐 View Live Project" ()
 
 📂 How to Run
 
